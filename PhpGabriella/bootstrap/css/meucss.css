@@ -1,0 +1,25 @@
+.centralizar {
+    display: flex;
+    justify-content: center;    
+     
+}
+
+.espacotopo{
+    margin-top: 2cm;
+    margin-bottom: 8cm;
+
+}
+
+.tamanhoImg{
+   width: 150px;
+}
+
+.imgMockup{
+    width: 400px;
+}
+
+#footerG{
+    position: absolute;
+    width: 100%;
+    height:60px;
+}
